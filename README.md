@@ -13,7 +13,7 @@ weight：https://pjreddie.com/darknet/yolov2/ 文件下载;
 
 这里使用yolov2-tiny模型的voc版本，运行如下命令:
 ```
-python ./yad2k.py ./yolov2.cfg ./yolov2.weights ./model/yolov2.h5
+python ./yad2k.py ./yolov2.cfg ./yolov2.weights ./model_data/yolov2.h5
 ```
 
-等整理好了会把设置好的yolov2.h5上传到百度网盘中。
+等整理好了会把设置好的yolov2.h5上传到百度网盘中。yolov2.h5网盘地址：https://pan.baidu.com/s/1SwrtCCLmiD05EaglR3kedA 密码：ke82
