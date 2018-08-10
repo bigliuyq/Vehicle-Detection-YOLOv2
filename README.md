@@ -11,7 +11,9 @@ weight：https://pjreddie.com/darknet/yolov2/ 文件下载;
 
 运行yad2k.py文件，参数依次为：cfg文件路径，weights文件路径，model文件输出路径.
 
-这里使用yolov2-tiny模型的voc版本，运行如下命令：
+这里使用yolov2-tiny模型的voc版本，运行如下命令:
 ```
-python ./yad2k.py ./yolov2-tiny-voc.cfg ./yolov2-tiny-voc.weights ./model/yolov2-tiny-voc.h5
+python ./yad2k.py ./yolov2.cfg ./yolov2.weights ./model/yolov2.h5
 ```
+
+等整理好了会把设置好的yolov2.h5上传到百度网盘中。
